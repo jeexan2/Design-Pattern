@@ -1,0 +1,6 @@
+c:\users\j.aziz\documents\visual studio 2015\Projects\singletonpattern\singletonpattern\bin\Debug\singletonpattern.exe.config
+c:\users\j.aziz\documents\visual studio 2015\Projects\singletonpattern\singletonpattern\bin\Debug\singletonpattern.exe
+c:\users\j.aziz\documents\visual studio 2015\Projects\singletonpattern\singletonpattern\bin\Debug\singletonpattern.pdb
+c:\users\j.aziz\documents\visual studio 2015\Projects\singletonpattern\singletonpattern\obj\Debug\singletonpattern.csprojResolveAssemblyReference.cache
+c:\users\j.aziz\documents\visual studio 2015\Projects\singletonpattern\singletonpattern\obj\Debug\singletonpattern.exe
+c:\users\j.aziz\documents\visual studio 2015\Projects\singletonpattern\singletonpattern\obj\Debug\singletonpattern.pdb

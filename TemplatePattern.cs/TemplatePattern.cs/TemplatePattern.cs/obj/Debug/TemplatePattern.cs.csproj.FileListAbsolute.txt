@@ -1,0 +1,6 @@
+c:\users\jysan aziz\documents\visual studio 2015\Projects\TemplatePattern.cs\TemplatePattern.cs\bin\Debug\TemplatePattern.cs.exe.config
+c:\users\jysan aziz\documents\visual studio 2015\Projects\TemplatePattern.cs\TemplatePattern.cs\obj\Debug\TemplatePattern.cs.csprojResolveAssemblyReference.cache
+c:\users\jysan aziz\documents\visual studio 2015\Projects\TemplatePattern.cs\TemplatePattern.cs\bin\Debug\TemplatePattern.cs.exe
+c:\users\jysan aziz\documents\visual studio 2015\Projects\TemplatePattern.cs\TemplatePattern.cs\bin\Debug\TemplatePattern.cs.pdb
+c:\users\jysan aziz\documents\visual studio 2015\Projects\TemplatePattern.cs\TemplatePattern.cs\obj\Debug\TemplatePattern.cs.exe
+c:\users\jysan aziz\documents\visual studio 2015\Projects\TemplatePattern.cs\TemplatePattern.cs\obj\Debug\TemplatePattern.cs.pdb
